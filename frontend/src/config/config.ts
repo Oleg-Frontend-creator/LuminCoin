@@ -1,4 +1,5 @@
-const host: string = 'http://localhost:3000';
+//const host: string = 'http://localhost:3000';
+const host: string = 'https://lumincoin-backend-6ht9.onrender.com';
 const config: { host: string, api: string } = {
     host: host,
     api: host + '/api'
